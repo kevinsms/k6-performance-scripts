@@ -24,10 +24,10 @@
 
 ### Cadastro
 
-- [ ] O cadastro com sucesso deve ocorrer em até 2 segundos
-- [ ] Cadastros sem sucesso devem ocorrer em até 2 segundos
-- [ ] Deve poder cadastrar até 100 usuários simultâneos
-- [ ] A margem de erro no cadastro deve ser de pelo menos 1%
+- [x] O cadastro com sucesso deve ocorrer em até 2 segundos
+- [x] Cadastros sem sucesso devem ocorrer em até 2 segundos
+- [x] Deve poder cadastrar até 100 usuários simultâneos
+- [x] A margem de erro no cadastro deve ser de pelo menos 1%
 
 ## 🚀 Tecnologias
 
@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feito com 💜 &nbsp;por Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/papitoio/)
+Feito com 💜 &nbsp;por Kevin Silva 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/kevin-s-29b17413a/)
